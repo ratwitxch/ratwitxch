@@ -3,18 +3,17 @@
 <h2 >° . WelcoMe! ₀ *</h2>
 <p>Hoping to contribute to lots of open source projects!</p>
 <p>Majoring in <b>Intelligent Engineering</b> in Taipei, Taiwan. </p>
-<p>Let's make some weird stuff! What can go wrong?</p>
 <img align="right" alt="flower-island" src="https://i.postimg.cc/MG5cb7X1/flower-island.jpg" width="300" />
 <ul>
     <li>•ᴗ• Enjoys reading *slice of life*, noon naps, and hiking.</li>
     <li>🥺 Dreams of living in a Solarpunk Cottagecore world</li>
 </ul>
 
-<h3 > My Whacky Projects </h3>
+<h3 > Whacky Projects </h3>
 <ul>
     <li><a href="https://ket3l4.github.io/color-pixel/" target="_blank" rel="noopener noreferrer">Color Pixel</a></li>
     <li><a href="https://ket3l4.github.io/pastel-calculator/" target="_blank" rel="noopener noreferrer">Pastel Calculator</a></li>
-    <li><a href="https://ket3l4.github.io/rock-paper-scissor/index.html" target="_blank" rel="noopener noreferrer">Rock Paper Sciccors!</a></li>
+    <li><a href="https://ket3l4.github.io/rock-paper-scissor/index.html](https://github.com/ket3l4/Chew_or_Die" target="_blank" rel="noopener noreferrer">Fractal Snake Game</a></li>
     <li><a href = "https://github.com/ket3l4/Listen-Up" target="_blank" rel="noopener noreferrer">Screen Reader Browser Extension (Hackathon Team Project)</a></li>
 </ul>
 <!---
